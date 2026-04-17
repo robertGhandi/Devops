@@ -1,7 +1,7 @@
-Got it — here is the **complete single-block Markdown file** (no breaks, no interruptions, easy copy/paste into GitHub README.md):
+
 
 ```markdown
-# 🚀 Stage 1 API Deployment (HNG DevOps Task)
+
 
 ## 📌 Project Overview
 
