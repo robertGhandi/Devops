@@ -50,7 +50,7 @@ stage1-api/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/stage1-api.git
+git clone https://github.com/robertGhandi/Devops.git
 cd stage1-api
 ````
 
